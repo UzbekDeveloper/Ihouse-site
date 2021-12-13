@@ -1,0 +1,22 @@
+{
+    "navibar": {
+        "home": "bosh sahifa",
+        "about": "Biz haqimizda",
+        "courses": "Kurslar",
+        "faq": "faq",
+        "contacts": "aloqa",
+        "ru": "ruscha",
+        "uz": "o`zbekcha"
+    },
+    "home": {
+      "title": "I house",
+      "title2": "Yuqori texnologiyalar maktabi",
+      "inpName": "Ismingiz:",
+      "inpNubmer": "Telefon raqamingiz:",
+      "submit": "Jo`natish",
+      "card1": "Web Dasturlash",
+      "card2": "Elektron kommersiya",
+      "card3": "3D modellashtirish",
+      "more": "batafsil"
+    }
+}
